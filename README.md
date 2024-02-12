@@ -17,19 +17,31 @@ The below project is focused on scraping and collecting customer feedback and re
 * Topic Modelling using Latent Dirichlet analysis(LDA)
 
 ## Visualization
-Sentiment Distribution of Airline reviews
+
+### Top words by frequency
+
+![freq_words](img/freq_words.png)
+
+### Sentiment Distribution of Airline reviews
+
 ![Sentiment Distribution](img/Sentiment_distribution.png)
 
-Emotions with frequency > 100
+### Emotions with frequency > 100
+
 ![Emotions](img/freq_more_than_100.png)
 
-Wordcloud of commonly expressed emotions
+### Wordcloud of commonly expressed emotions
+
 ![Emotions](img/emotions.png)
 
-Most talked about categories in the reviews
+### Most talked about categories in the reviews
+
 ![categories](img/categories.png)
 
-Wordcloud of most used words
+### Wordcloud of most used words
+
 ![most used](img/Wordcloud.png)
+
+
 
 
