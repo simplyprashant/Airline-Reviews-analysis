@@ -17,4 +17,4 @@ The below project is focused on scraping and collecting customer feedback and re
 * Topic Modelling using Latent Dirichlet analysis(LDA)
 
 ## Visualization
-![Sentiment Distribution]("img/Sentiment distribution.png")
+![Sentiment Distribution](img/Sentiment_distribution.png)
